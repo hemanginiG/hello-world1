@@ -1,2 +1,4 @@
 # hello-world1
-Just another repository
+data x;
+ set dm;
+run;
